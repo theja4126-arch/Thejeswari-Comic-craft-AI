@@ -1,0 +1,27 @@
+# Phase 1: Model Selection and Research
+
+### Objective
+Research and select the most suitable generative AI models for ComicCraft AI which generates comic outlines, dialogues, and illustrations.
+
+### Project Requirements
+1. Structured 5-panel comic outlines
+2. Full narration and character dialogues  
+3. Visual comic-style illustrations
+
+### Models Evaluated
+- **Gemini Flash (gemini-1.5-flash):** For fast structured outline generation
+- **Gemini Pro (gemini-1.5-pro):** For detailed creative narration and dialogue
+- **Stable Diffusion (runwayml/stable-diffusion-v1-5):** For high-quality comic-style images
+
+### Evaluation Criteria
+- Response quality for creative writing
+- Prompt adherence and detail richness
+- Speed and resolution of image generation
+- Model stability and documentation support
+
+### Final Selection
+- Gemini Flash -> Comic Panel Outline
+- Gemini Pro -> Story & Dialogue
+- Stable Diffusion -> Image Generation
+
+This combination ensures rich storytelling with vivid comic panels.
